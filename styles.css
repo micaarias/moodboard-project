@@ -50,13 +50,15 @@ body {
         h2 {
             
             margin-bottom: 30px;
+            margin-top: 20px;
             font-weight: 600;
         }
         
         .colors {
             display: flex;
             justify-content: center;
-            gap: 15px;
+            gap: 20px;
+        
         }
 
         .color {
